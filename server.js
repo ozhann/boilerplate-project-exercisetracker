@@ -5,6 +5,7 @@ const shortid = require("shortid");
 
 const cors = require("cors");
 
+// mongoDB can be added later
 // const mongoose = require("mongoose");
 // mongoose.connect(process.env.MLAB_URI || "mongodb://localhost/exercise-track");
 
